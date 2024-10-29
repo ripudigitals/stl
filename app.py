@@ -124,7 +124,7 @@ if __name__ == "__main__":
         else:
             st.success(f'Rendered in {int(end-start)} seconds', icon="✅")
             with open(f'file.{out}', "rb") as file:
-                btn = st.download_button(
+                btn = st.getit_button(
                         label=f"Download {out}",
                         data=file,
                         file_name=f'TextTango_{text1}_{text2}.{out}',

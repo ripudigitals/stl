@@ -1,12 +1,12 @@
-# TextTango: dual letter illusion
+# what is this: dual letter illusion
 "Generate a custom dual letter illusion, a 3d ambigram!
 Visit the original [Printables page](https://www.printables.com/it/model/520333-texttango-dual-letter-illusion)!
 
 ## Try the web app:
 
-[TextTango web app](https://dual-letter-illusion.streamlit.app/) powered by streamlit
+[Main App for stl](https://dual-letter-illusion.streamlit.app/) powered by streamlit
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dual-letter-illusion.streamlit.app/)
+[![Ripu App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://dual-letter-illusion.streamlit.app/)
 
 ## Customize
 

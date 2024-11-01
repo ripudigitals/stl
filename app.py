@@ -67,9 +67,9 @@ if __name__ == "__main__":
     col1, col2, col3 = st.columns(3)
     # Input type
     with col1:
-        text1 = st.text_input('First text', value="STOP")
+        text1 = st.text_input('First text', value="ripu")
     with col2:
-        text2 = st.text_input('Second text', value="WORK")
+        text2 = st.text_input('Second text', value="rioih")
     with col3:
         fontsize = st.number_input('Font size', min_value=1, max_value=None, value=20)
         extr = fontsize*2 # extrude letter
